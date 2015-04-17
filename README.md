@@ -1,6 +1,4 @@
 # MIE350
-MIE350: Fall 2013-14 Course Deliverable - Room and room mate finder system catering to university students.
-
 MIE350: Design and Analysis of Information Systems - Fall 2013-14 Course Deliverable
 
 Room and room mate finder system catering to university students. Written in Java, SQL, hosted using a TomCat server.
